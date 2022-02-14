@@ -1,2 +1,3 @@
 a.txt first created
 새로운줄 하나 추가
+remote에서 수정했음
