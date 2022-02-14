@@ -1,0 +1,2 @@
+a.txt first created
+새로운줄 하나 추가
