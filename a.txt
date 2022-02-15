@@ -2,3 +2,13 @@ a.txt first created
 새로운줄 하나 추가
 remote에서 수정했음
 두번째줄 추가
+
+15일 수정1
+
+
+
+
+
+
+
+
